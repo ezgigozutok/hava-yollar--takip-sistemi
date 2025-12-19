@@ -2,16 +2,15 @@
 Bir havayolu operasyonunu uçtan uca izlemek için tasarlanmış ilişkisel veritabanıdır. Sistem; uçuş planlamayı, yolcu rezervasyon ve bilet süreçlerini, koltuk atamalarını, mürettebat görev dağılımını, bagaj takibini, ödeme kayıtlarını ve uçak bakım geçmişini merkezi olarak yönetir. Microsoft SQL Server üzerinde tasarlanmıştır.
 
 ## 📂 Proje Yapısı
-
-01_schema.sql
-02_seed_data.sql
-03_procedures.sql
-04_triggers.sql
-05_transactions_demo.sql
-06_test_queries.sql
-07_role_requirements.md
-README.md
-
+database/
+├── 01_schema.sql
+├── 02_seed_data.sql
+├── 03_procedures.sql
+├── 04_triggers.sql
+├── 05_transactions_demo.sql
+├── 06_test_queries.sql
+├── 07_role_requirements.md
+└── README.md (opsiyonel – teknik açıklamalar için)
 ## Tablo Açıklamaları
 
 | Tablo Adı | Açıklama |
