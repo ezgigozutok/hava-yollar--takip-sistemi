@@ -4,6 +4,7 @@ Bir havayolu operasyonunu uçtan uca izlemek için tasarlanmış ilişkisel veri
 ## 📂 Proje Yapısı
 
 database/
+│
 ├── 01_schema.sql
 │ → Tüm tablolar, primary key, foreign key ve kısıtlar
 │
